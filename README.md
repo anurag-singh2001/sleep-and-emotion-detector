@@ -13,3 +13,10 @@ In face emotion recognition we are using Deepface module which is use to analysi
 
 ## Sleep detector
 
+In sleep detector we are using dlib and face_utils which is use to detect the frontal face of any person and detect some landmarks on different location of face, with the help of landmarks we calculate the ratio between eye upper lid and lower lid and with the help of this ratio we can detect wether the person is sleeping or not.
+
+### Demo
+![Screenshot (232)](https://user-images.githubusercontent.com/72223953/198300575-e6f4d1ae-a23f-49e7-929e-3e2ee954380a.png)
+![Screenshot (233)](https://user-images.githubusercontent.com/72223953/198300654-df9cf3a2-983b-4d95-b365-e1311c7b92ae.png)
+![Screenshot (234)](https://user-images.githubusercontent.com/72223953/198300697-dcb67483-ca1d-4f2a-b1b7-4d89d75fb915.png)
+
